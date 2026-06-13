@@ -116,11 +116,11 @@ Advanced Frontend based media/file conversion platform with Pdf/Image Tools And 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ahsan911-bey&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AhsanShahzad-dev&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ahsan911-bey&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AhsanShahzad-dev&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahsan911-bey&theme=tokyo-night&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AhsanShahzad-dev&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
